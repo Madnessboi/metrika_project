@@ -1,4 +1,5 @@
 ABOUT:
+Website for Metrika company, desing from Figma template.
 Full HTML/CSS layout, JS included
 
 FEATURES:
